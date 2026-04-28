@@ -1,3 +1,4 @@
+A fully functional command-line Blackjack game implemented in Python using object-oriented programming principles
 Features:
 
 Full Blackjack game loop with player vs dealer
